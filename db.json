@@ -1,0 +1,20 @@
+[
+{
+	"id": 1,
+	"name": "Event 1",
+	"date": "01-Jan-2021",
+	"details": "Event 1 details" 
+},
+{
+	"id": 2,
+	"name": "Event 2",
+	"date": "02-Jan-2021",
+	"details": "Event 2 details" 
+},
+{
+	"id": 2,
+	"name": "Event 2",
+	"date": "03-Jan-2021",
+	"details": "Event 3 details" 
+}
+]
