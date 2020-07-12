@@ -1,25 +1,25 @@
 {
    "events":[
       {
-         "id":1,
-         "name":"Event 1",
+         "id": 1,
+         "name": "Event 1",
          "venu": "Sample venu 1"
-         "date":"Friday, January 1st 2021, 12:00:00 am",
-         "details":"Event 1 sample details."
+         "date": "Friday, January 1st 2021, 12:00:00 am",
+         "details": "Event 1 sample details."
       },
       {
-         "id":2,
-         "name":"Event 2",
+         "id": 2,
+         "name": "Event 2",
          "venu": "Sample venu 2"
-         "date":"Saturday, January 2nd 2021, 12:00:00 am",
-         "details":"Event 2 smaple details."
+         "date": "Saturday, January 2nd 2021, 12:00:00 am",
+         "details": "Event 2 smaple details."
       },
       {
-         "id":3,
-         "name":"Event 3",
+         "id": 3,
+         "name": "Event 3",
          "venu": "Sample venu 3"
-         "date":"Sunday, January 3nd 2021, 12:00:00 am"",
-         "details":"Event 3 sample details."
+         "date": "Sunday, January 3nd 2021, 12:00:00 am"",
+         "details": "Event 3 sample details."
       }
    ]
 }
