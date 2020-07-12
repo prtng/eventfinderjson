@@ -3,20 +3,23 @@
       {
          "id":1,
          "name":"Event 1",
-         "date":"01-Jan-2021",
-         "details":"Event 1 details"
+         "venu": "Sample venu 1"
+         "date":"Friday, January 1st 2021, 12:00:00 am",
+         "details":"Event 1 sample details."
       },
       {
          "id":2,
          "name":"Event 2",
-         "date":"02-Jan-2021",
-         "details":"Event 2 details"
+         "venu": "Sample venu 2"
+         "date":"Saturday, January 2nd 2021, 12:00:00 am",
+         "details":"Event 2 smaple details."
       },
       {
          "id":3,
          "name":"Event 3",
-         "date":"03-Jan-2021",
-         "details":"Event 3 details"
+         "venu": "Sample venu 3"
+         "date":"Sunday, January 3nd 2021, 12:00:00 am"",
+         "details":"Event 3 sample details."
       }
    ]
 }
